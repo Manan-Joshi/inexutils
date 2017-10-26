@@ -1,5 +1,5 @@
 # inexutils
-InDesign plugin to ignore missing warnings from documents
+InDesign plugin to ignore missing plugins information from documents
 
 Opening an InDesign document saved with plugins which are no longer available causes many annoying problems like
 1. Have to Save As each time you save the file, providing a location and name for the save
