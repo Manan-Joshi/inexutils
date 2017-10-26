@@ -13,9 +13,9 @@ All these issues are effectively solved by InExUtils plugin, using this plugin y
 ### Installation
 Currently the plugin is available for CC2017 for MAC and WIN, other version would be released soon based on the feedback.
 
-MAC Installtion instructions :- Download the installer and run it. If you have InDesign installed in a location other than under /Application, choose the InDesign install location.
+MAC Installation instructions :- Download the installer and run it. If you have InDesign installed in a location other than under /Application, choose the InDesign install location.
 
-WIN Installtion instructions :- Download the installer and run it
+WIN Installation instructions :- Download the installer and run it
 
 ### How to use
 1. Use the menu InEXUtils>Ignore missing plugins(All Docs). This will ignore the missing plugin info from all the open documents. This menu will be active only when we have some documents open.
