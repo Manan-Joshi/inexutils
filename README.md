@@ -11,7 +11,7 @@ All these issues are effectively solved by InExUtils plugin, using this plugin y
 
 
 ### Installation
-Currently the plugin is available for CC2017, CC2018 and CC2019 on MAC and CC2017 on WIN, other version would be released soon based on the feedback.
+Currently the plugin is available for CC2017, CC2018, CC2019 and CC2020 on MAC and CC2017 on WIN, other version would be released soon based on the feedback.
 
 MAC Installation instructions :- Download the installer and run it. If you have InDesign installed in a location other than under /Application, choose the InDesign install location.
 
