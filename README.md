@@ -13,9 +13,12 @@ All these issues are effectively solved by InExUtils plugin, using this plugin y
 ### Installation
 Currently the plugin is available for CC2017, CC2018, CC2019, CC2020, CC2021, CC2022 on MAC and CC2017 on WIN, other version would be released soon based on the feedback.
 
+#### Trial Version
+The plugin is installed as a trial version which is fully working installation that works for 7 days. Beyond that if you still wish to use the plugin please contact me via email mentioned in the message informing you about the expired trial
+
 MAC Installation instructions :- Download the installer and run it. If you have InDesign installed in a location other than under /Application, choose the InDesign install location.
 
-WIN Installation instructions :- Download the installer and run it
+WIN Installation instructions :- Download the installer and run it 
 
 ### How to use
 1. Use the menu InEXUtils>Ignore missing plugins(All Docs). This will ignore the missing plugin info from all the open documents. This menu will be active only when we have some documents open.
